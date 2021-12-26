@@ -1,16 +1,15 @@
-### Hi there 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi, I'm Thijsson [<img align="right" width="135" height="80" src="https://i.imgur.com/73nwJjR.png">](#)
 
-<!--
-**Thijsson/Thijsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Socials:
+### [<img width=25 height=26 src="https://i.imgur.com/JNehGFH.png">](#) Discord: `Thijsson#0067`
+### [<img width=25 height=26 src="https://i.imgur.com/ZS7PgpV.png"> Spotify](https://open.spotify.com/user/marcocynthia-10?si=ff3c02f063374a16)
 
-Here are some ideas to get you started:
+## Languages and Tools:
+[<img width="50" src="https://i.imgur.com/g6bxayM.png">][java]
+[<img width="50" src="https://i.imgur.com/33pdCZt.png">][idea]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats:
+[![MyMemories GitHub stats](https://github-readme-stats.vercel.app/api?username=Thijsson&show_icons=true&theme=radical)](#)
+
+[java]: https://www.java.com/
+[idea]: https://www.jetbrains.com/idea/
