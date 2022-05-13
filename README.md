@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi, I'm Thijsson [<img align="right" width="135" height="80" src="https://i.imgur.com/73nwJjR.png">](#)
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi, I'm Thijs [<img align="right" width="135" height="80" src="https://i.imgur.com/73nwJjR.png">](#)
 
 ## Socials:
 ### [<img width=25 height=26 src="https://i.imgur.com/JNehGFH.png">](#) Discord: `Thijsson#0067`
