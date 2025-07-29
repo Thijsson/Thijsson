@@ -2,7 +2,7 @@
 
 ## Socials:
 ### [<img width=25 height=26 src="https://i.imgur.com/JNehGFH.png">](#) Discord: `Thijsson01`
-### [<img width=25 height=26 src="https://i.imgur.com/ZS7PgpV.png"> Spotify]
+### <img width=25 height=26 src="https://i.imgur.com/ZS7PgpV.png"> Spotify
 
 ## Languages and Tools:
 [<img width="50" src="https://i.imgur.com/g6bxayM.png">][java]
