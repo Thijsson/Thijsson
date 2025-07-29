@@ -8,10 +8,11 @@
 [<img width="50" src="https://i.imgur.com/g6bxayM.png">][java]
 [<img width="50" src="https://i.imgur.com/33pdCZt.png">][idea]
 <img width="80" src="https://i.imgur.com/wEvMeot.png">
+[<img width="50"src="https://i.imgur.com/ovJkTIL.png">][visual studio code]
 
 ## GitHub Stats:
 [![Thijs GitHub stats](https://github-readme-stats.vercel.app/api?username=Thijsson&show_icons=true&theme=radical)](#)
 
 [java]: https://www.java.com/
 [idea]: https://www.jetbrains.com/idea/
-
+[visual studio code]: https://code.visualstudio.com/
