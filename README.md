@@ -7,11 +7,11 @@
 ## Languages and Tools:
 [<img width="50" src="https://i.imgur.com/g6bxayM.png">][java]
 [<img width="50" src="https://i.imgur.com/33pdCZt.png">][idea]
-[<img width="50" src="https://i.imgur.com/wEvMeot.png">][HTML]
+[<img width="50" src="https://i.imgur.com/wEvMeot.png">][html]
 
 ## GitHub Stats:
 [![Thijs GitHub stats](https://github-readme-stats.vercel.app/api?username=Thijsson&show_icons=true&theme=radical)](#)
 
 [java]: https://www.java.com/
 [idea]: https://www.jetbrains.com/idea/
-[HTML]: 
+[html]: 
