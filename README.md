@@ -7,7 +7,7 @@
 ## Languages and Tools:
 [<img width="50" src="https://i.imgur.com/g6bxayM.png">][java]
 [<img width="50" src="https://i.imgur.com/33pdCZt.png">][idea]
-[<img width="50" src="https://imgur.com/gallery/html-logo-sW1UgBS#wEvMeot.png">][HTML]
+[<img width="50" src="https://i.imgur.com/wEvMeot.png">][HTML]
 
 ## GitHub Stats:
 [![Thijs GitHub stats](https://github-readme-stats.vercel.app/api?username=Thijsson&show_icons=true&theme=radical)](#)
